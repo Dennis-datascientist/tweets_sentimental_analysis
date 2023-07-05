@@ -2,7 +2,7 @@
 
 ## sentiment_analysis_ using_ VADER
 
-The provided code performs sentiment analysis on a given dataset of tweets using the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis tool. It calculates the polarity, positive, negative, and neutral scores for each tweet and displays the results in a table format. The code also generates a pie chart to visualize the distribution of sentiments (positive, negative, and neutral) in the dataset. This code can be used as a starting point for analyzing sentiment in textual data.
+The provided code performs sentiment analysis on a given dataset of tweets using the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis tool. It calculates the polarity, positive, negative, and neutral scores for each tweet and displays the results in a table format. The code also generates a pie chart to visualize the distribution of sentiments (positive, negative, and neutral).
 
 
 #### Requierments 

@@ -14,6 +14,6 @@ The provided code performs sentiment analysis on a given dataset of tweets using
    pip install nltk
    pip install matplotlib
    ```
-2. Dataset 
+2. Dataset (Tweets.xlsx)
 
 To run the code, ensure that you have the required modules (pandas, numpy, nltk, matplotlib) installed. Then, provide a dataset of tweets in a pandas DataFrame format with a column named 'Tweet'. Execute the code to perform sentiment analysis using VADER and obtain the sentiment scores. The results will be displayed in a table and a pie chart.
